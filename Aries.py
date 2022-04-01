@@ -59,7 +59,8 @@ tseven = STRING27
 teight = STRING28
 tnine = STRING29
 thirty = STRING30
-
+Fourty = STRING31
+FOURTYTWO= STRING32
 
 
 idk = ""
