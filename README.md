@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/7a0d3f30fa591a61f0900.png" alt="AriesXSpam Logo">
+  <img src="https://te.legra.ph/file/fb8584c4d654cc4aa4f24.jpg" alt="AriesXSpam Logo">
 </p>
 <h1 align="center">
-  <b>𝘼𝙍𝙄𝙀𝙎 𝙭 𝙎𝙋𝘼𝙈</b>
+  <b>AVIVEK op</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/D3stroyer-xD/AriesSpamBot?style=flat-square&color=orange)](https://github.com/D3stroyer-xD/AriesSpamBot/fork)
@@ -23,7 +23,7 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/Team_BlackStorm)
-* [Support Group](https://t.me/Aries_Updates)
+* [Channel](https://t.me/liu_wulang_monkes)
+* [Support Group](https://t.me/Ronin_Fighters_Fd)
 
 
